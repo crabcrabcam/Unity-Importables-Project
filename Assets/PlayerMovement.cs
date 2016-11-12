@@ -3,6 +3,9 @@ using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
 
+	public float speed;
+	public float jumpHeight;
+
 	// Use this for initialization
 	void Start () {
 	
