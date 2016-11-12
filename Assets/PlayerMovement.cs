@@ -12,4 +12,10 @@ public class PlayerMovement : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void Movement() {
+		if (Input.GetAxis("Horizontal") != 0) {
+			print ("This worked");
+		}
+	}
 }
