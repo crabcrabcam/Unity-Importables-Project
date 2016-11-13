@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Levels/Platformer Movement.unity
+  isLoaded: 1
+  isActive: 1
