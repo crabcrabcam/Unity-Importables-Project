@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Levels/Platformer Movement.unity
+- path: Assets/Level Manager/LevelManager.unity
   isLoaded: 1
   isActive: 1
