@@ -34,7 +34,7 @@ public class LevelManager : MonoBehaviour {
     /// The function needs to be public so it can be called by other scripts from elsewhere in the game
 	/// </summary>
 	/// <returns>The player.</returns>
-	void RespawnPlayer()
+	public void RespawnPlayer()
 	{
 		//Sets the player position in the world to the same as the "startOfLevel" game object
 		player.transform.position = startOfLevel.transform.position;
