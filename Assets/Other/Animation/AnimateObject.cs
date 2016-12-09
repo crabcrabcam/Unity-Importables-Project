@@ -60,7 +60,7 @@ public class AnimateObject : MonoBehaviour
 
             }
 
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(timeBetweenAnimation);
 
         }
     }
